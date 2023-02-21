@@ -17,7 +17,7 @@
        <p>I also created a pdf map. For this map i created a buffer around cities that had less than 75 percent of their population over 18 years.<br>
             The link for the pdf map is below. 
             <br><br>
-    <a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignments/assign3.pdf" target ="_blank">Click this link</a> </p>
+    <a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignment 1/assign3.pdf" target ="_blank">Click this link</a> </p>
     
      <p>Finally I also created a webmap showing thcounties and cities in Iowa.<br>
             The link for the webmap is below. 
