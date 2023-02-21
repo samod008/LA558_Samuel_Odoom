@@ -7,12 +7,13 @@
        <h1>My LA558 Portfolio</h1>
         
              <h2>Description of trial exercise 1</h2>
+        
         For this exercise, we were supposed to create a map in QGIS and add the map to a markdown file
         
         I created a map of Iowa showing some selected urban areas
         
         
-        The link to my map is this [trial exercise](ex2b.png)
+        The link to my map is this [exercise](ex2b.png)
         
         
        <h2>Description of Assignment 1</h2>
