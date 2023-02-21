@@ -4,7 +4,7 @@ This is my output for Assignment 2
 I created a bar chart showing percentage wins for different nationalities
 
 
-This is the link to it [Assignment_2](Assignment2Chart.jpg)
+This is the link to it [Chart](Assignment2Chart.jpg)
  
 I also plotted a map of Nebraska
 
