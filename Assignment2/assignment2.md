@@ -8,7 +8,7 @@ This is the link to it [Chart](Assignment2Chart.jpg)
  
 I also plotted a map of Nebraska
 
-This is the link to it [Assignment_2](Assignment_2/Nebraskaplot.jpeg)
+This is the link to it [Nebraska_Map](Nebraskaplot.jpeg)
 
 
 
