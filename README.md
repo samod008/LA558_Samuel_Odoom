@@ -22,7 +22,7 @@
      <p>Finally I also created a webmap showing thcounties and cities in Iowa.<br>
             The link for the webmap is below. 
             <br><br>
-     <a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignments/qgis2web/qgis2web1/index.html" target ="_blank">Click this link</a> </p>
+     <a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignment 1/qgis2web/qgis2web1/index.html" target ="_blank">Click this link</a> </p>
     
     
       
