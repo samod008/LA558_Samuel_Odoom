@@ -3,6 +3,7 @@
 ### Assignment 1
 
 ### Map 1: Open Street Map
+I made an open street map of the Veenker Golf Course in Ames. Click the link below to view it
 
  ><small><a href="https://www.openstreetmap.org/?mlat=42.03881&amp;mlon=-93.65058#map=17/42.03880/-93.65058">View Larger Map</a></small>
 
