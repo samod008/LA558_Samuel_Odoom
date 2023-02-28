@@ -4,16 +4,6 @@
 
 ### Map 1: Open Street Map
 
-
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Samuel's Open Street Map</title>
-    </head>
-    <body>
-       <h1>Description of individual maps for assignment 1</h1>
-       <h2>Description of individual maps for assignment 1</h2>
-         
          
          First of all, I created an open street map showing the Veenker Memorial Gold Course in Ames. <br>
          <p>The map is shown below</p>
