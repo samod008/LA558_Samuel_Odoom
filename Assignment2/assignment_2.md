@@ -1,4 +1,4 @@
-## Assignment 2 
+## Description of Assignment 2 
 
 
 ### Plot 1: Percentage wins of nationalites
