@@ -1,9 +1,8 @@
-###Assignment 2 
+## Assignment 2 
 
 
 The first plot was a plot showing percentage wins of different nationalites form a data I pulled for google sheets
-[alt text](Assignment2Chart1.jpeg "A chart showing percentage wins for different nationalites")
-
+![alt text](Assignment2Chart1.jpeg "A chart showing percentage wins for different nationalites")
 
 
 
