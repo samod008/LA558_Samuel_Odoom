@@ -4,6 +4,7 @@
 
 ### Map 1: Open Street Map
 The first map I create was an open street map of the Veenker Golf Course in Ames Which is shown below
+<br><br>
     
        <iframe width="625" height="550" frameborder="1" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-93.65909099578859%2C42.0352454415012%2C-93.64207506179811%2C42.0423610576985&amp;layer=mapnik&amp;marker=42.0388073333032%2C-93.65058302879333" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=42.03881&amp;mlon=-93.65058#map=17/42.03880/-93.65058">View Larger Map</a></small>
 
@@ -33,4 +34,4 @@ The trial exercise involved exporting a map for QGIS and adding it to a markdown
 ### Assignment 2
 This is the link for assignment 2
 
-[Assignment2](Assignment2)
+[Assignment2](Assignment2/assignment_2.md)
