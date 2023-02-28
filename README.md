@@ -32,4 +32,5 @@ The trial exercise involved exporting a map for QGIS and adding it to a markdown
 
 ### Assignment 2
 This is the link for assignment 2
+
 [Assignment2](Assignment2)
