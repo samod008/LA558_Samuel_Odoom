@@ -14,6 +14,6 @@ The first plot was a plot showing percentage wins of different nationalites form
 
 
 
-### Plot 1: Nebraska map
+### Plot 2: Nebraska map
 The second plot is a map of the state of Nebraska
 ![alt text](Nebraskaplot.jpeg "A map of Nebraska showing the boundaries of counties")
