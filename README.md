@@ -35,3 +35,9 @@ The trial exercise involved exporting a map for QGIS and adding it to a markdown
 This is the link for assignment 2
 
 [Assignment2](Assignment2/assignment_2.md)
+
+
+### Assignment 3
+This is the link for assignment 3
+
+[Assignment3](Assignment3/assignment_3.md)
