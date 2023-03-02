@@ -3,7 +3,7 @@
 
 ### Plot 1: Percentage of blacks in Polk County
 The first plot was a plot showing percentage of blacks by census tracts in Polk County, Iowa. I plotted the map using the Thematic Map (tm) package
-![alt text](Polk Black.jpeg "A chart showing percentage of blacks in Polk County")
+![alt text](Polk_Black.jpeg "A chart showing percentage of blacks in Polk County")
 
 
 
