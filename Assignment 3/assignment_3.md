@@ -11,7 +11,7 @@ The first plot was a plot showing percentage of blacks by census tracts in Polk 
 
 ### Plot 2: Population Pyramid of Israel
 The second plot is a population pyramid of Israel. I plotted that using the idbr package
-![alt text](Israel Pyramid.jpeg "A population pyramid of Israel")
+![alt text](Israel_Pyramid.jpeg "A population pyramid of Israel")
 
 
 
