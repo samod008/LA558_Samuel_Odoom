@@ -38,6 +38,6 @@ This is the link for assignment 2
 
 
 ### Assignment 3
-This is the link for assignment 3
+Assignment 3 involved creating 3 plots. This is the link for assignment 3
 
 [Assignment3](Assignment3/assignment_3.md)
