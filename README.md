@@ -43,7 +43,4 @@ Assignment 3 involved creating 3 plots. This is the link for assignment 3
 [Assignment3](Assignment3/assignment_3.md)
 
 
-### Assignment 4
-Assignment 3 involved creating 3 plots. This is the link for assignment 4
 
-https://canvas.iastate.edu/
