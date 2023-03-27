@@ -41,3 +41,8 @@ This is the link for assignment 2
 Assignment 3 involved creating 3 plots. This is the link for assignment 3
 
 [Assignment3](Assignment3/assignment_3.md)
+
+### Assignment 4
+Assignment 4 involved creating 2 leaflet maps. This is the link for assignment 4
+
+https://samod008.github.io/LA558_Samuel_Odoom/Assignment%204/assignment4.html
