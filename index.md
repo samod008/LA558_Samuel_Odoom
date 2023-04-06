@@ -46,3 +46,8 @@ Assignment 3 involved creating 3 plots. This is the link for assignment 3
 Assignment 4 involved creating 2 leaflet maps. This is the link for assignment 4
 
 https://samod008.github.io/LA558_Samuel_Odoom/Assignment%204/assignment4.html
+
+### Assignment 6
+Assignment 6 involved add 3 graphics to a dashboard on Tableau. This is the link for assignment 6
+
+https://samod008.github.io/LA558_Samuel_Odoom/Assignment%206/assignment6.html
