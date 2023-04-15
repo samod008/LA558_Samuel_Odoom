@@ -52,5 +52,12 @@ Assignment 6 involved add 3 graphics to a dashboard on Tableau. This is the link
 
 https://samod008.github.io/LA558_Samuel_Odoom/Assignment%206/assignment6.html
 
+### Assignment 7
+I made a dashboard that dispalys data showing the relationship between the level of education and percentage of people living below the poverty line in Missouri. The link for the map is below
+
+            <br><br>
+
+     <a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignment%207/assignment7.html" target ="_blank">Click this link</a> 
+
 
 
