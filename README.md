@@ -1,5 +1,9 @@
 ### Samuel's Portfolio for LA 558
 
+This is my LA 558 Spring 2023 Introduction to Web Mapping and Data Visualization Repository at Iowa State University. Here you will find out about me and links to my exercises, assignments, and class projects.
+
+I am a graduate student in the Community and Regional Planning program and obtaining a graduate GIS certification as well.
+
 ### Assignment 1
 
 ### Map 1: Open Street Map
