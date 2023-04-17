@@ -45,12 +45,12 @@ Assignment 3 involved creating 3 plots. This is the link for assignment 3
 ### Assignment 4
 Assignment 4 involved creating 2 leaflet maps. This is the link for assignment 4
 
-https://samod008.github.io/LA558_Samuel_Odoom/Assignment%204/assignment4.html
+<a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignment%204/assignment4.html" target ="_blank">Click this link</a> 
 
 ### Assignment 6
 Assignment 6 involved add 3 graphics to a dashboard on Tableau. This is the link for assignment 6
 
-https://samod008.github.io/LA558_Samuel_Odoom/Assignment%206/assignment6.html
+<a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignment%206/assignment6.html" target ="_blank">Click this link</a> 
 
 ### Assignment 7
 I made a dashboard that dispalys data showing the relationship between the level of education and percentage of people living below the poverty line in Missouri. The link for the map is below
