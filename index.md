@@ -1,17 +1,17 @@
-### Samuel's Portfolio for LA 558
+# Samuel's Portfolio for LA 558
 
 This is my LA 558 Spring 2023 Introduction to Web Mapping and Data Visualization Repository at Iowa State University. Here you will find out about me and links to my exercises, assignments, and class projects. I am a graduate student in the Community and Regional Planning program and obtaining a graduate GIS certification as well.
 
 ## Assignment 1
 
-# Map 1: Open Street Map
+### Map 1: Open Street Map
 I made an open street map of the Veenker Golf Course in Ames. Click the link below to view it
 
  ><small><a href="https://www.openstreetmap.org/?mlat=42.03881&amp;mlon=-93.65058#map=17/42.03880/-93.65058">View Larger Map</a></small>
 
        
 
-# Map 2: PDF Map
+### Map 2: PDF Map
 I also created a pdf map. For this map i created a buffer around cities that had less than 75 percent of their population over 18 years. The link for the pdf map is below. 
 
             <br><br>
@@ -19,7 +19,7 @@ I also created a pdf map. For this map i created a buffer around cities that had
     <a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignment 1/assign3.pdf" target ="_blank">Click this link</a> 
 
     
-# Map 3: Webmap
+### Map 3: Webmap
 Finally I also created a webmap showing thcounties and cities in Iowa.The link for the webmap is below. 
 
             <br><br>
