@@ -2,9 +2,9 @@
 
 This is my LA 558 Spring 2023 Introduction to Web Mapping and Data Visualization Repository at Iowa State University. Here you will find out about me and links to my exercises, assignments, and class projects. I am a graduate student in the Community and Regional Planning program and obtaining a graduate GIS certification as well.
 
-## Assignment 1
+##  Assignment 1
 
-### Map 1: Open Street Map
+###  ><small><a href="https://www.openstreetmap.org/?mlat=42.03881&amp;mlon=-93.65058#map=17/42.03880/-93.65058">Map 1: Open Street Map</a></small>
 I made an open street map of the Veenker Golf Course in Ames. Click the link below to view it
 
  ><small><a href="https://www.openstreetmap.org/?mlat=42.03881&amp;mlon=-93.65058#map=17/42.03880/-93.65058">View Larger Map</a></small>
