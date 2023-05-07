@@ -2,13 +2,13 @@
 
 This is my LA 558 Spring 2023 Introduction to Web Mapping and Data Visualization Repository at Iowa State University. Here you will find out about me and links to my exercises, assignments, and class projects. I am a graduate student in the Community and Regional Planning program and obtaining a graduate GIS certification as well.
 
-###  <small><a href="https://www.openstreetmap.org/?mlat=42.03881&amp;mlon=-93.65058#map=17/42.03880/-93.65058">Assignment 1 (Map 1: Open Street Map)</a></small>
+##  <small><a href="https://www.openstreetmap.org/?mlat=42.03881&amp;mlon=-93.65058#map=17/42.03880/-93.65058">Assignment 1 (Map 1: Open Street Map)</a></small>
 I made an open street map of the Veenker Golf Course in Ames. Click the link below to view it
      
-###   <a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignment 1/assign3.pdf" target ="_blank">Assignment 1 (Map 2: PDF Map)</a> 
+##   <a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignment 1/assign3.pdf" target ="_blank">Assignment 1 (Map 2: PDF Map)</a> 
 I also created a pdf map. For this map i created a buffer around cities that had less than 75 percent of their population over 18 years. The link for the pdf map is below. 
    
-### <a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignment 1/qgis2web/qgis2web1/index.html" target ="_blank">Assignment 1 (Map 3: Webmap)</a> 
+## <a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignment 1/qgis2web/qgis2web1/index.html" target ="_blank">Assignment 1 (Map 3: Webmap)</a> 
 Finally I also created a webmap showing thcounties and cities in Iowa.The link for the webmap is below. 
 
 ## <a href="https://samod008.github.io/LA558_Samuel_Odoom/ex2b.png" target ="_blank">Trial Exercise</a> 
