@@ -31,4 +31,13 @@ Assignment 6 involved add 3 graphics to a dashboard on Tableau. This is the link
 ## <a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignment%207/assignment7.html" target ="_blank">Assignment 7</a> 
 I made a dashboard that dispalys data showing the relationship between the level of education and percentage of people living below the poverty line in Missouri. The link for the map is below
 
+## Final Project
+<p>In this final project, I worked on the alcohol outlet density and crime in the city of Des Moines. Below are the links to the files related to the project<p>
+<a href="https://samod008.github.io/LA558_Samuel_Odoom/Final%20Project/Final%20Abstract.pdf" target ="_blank">Abstract</a><br>
+<a href="https://samod008.github.io/LA558_Samuel_Odoom/Final%20Project/Process%20.pdf" target ="_blank">Project Documentation</a><br>
+<a href="https://samod008.github.io/LA558_Samuel_Odoom/Final%20Project/FinalProject.html" target ="_blank">Final Tableau Story</a> 
+
+
+
+
      
