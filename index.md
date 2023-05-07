@@ -11,7 +11,7 @@ I also created a pdf map. For this map i created a buffer around cities that had
 ### <a href="https://samod008.github.io/LA558_Samuel_Odoom/Assignment 1/qgis2web/qgis2web1/index.html" target ="_blank">Assignment 1 (Map 3: Webmap)</a> 
 Finally I also created a webmap showing thcounties and cities in Iowa.The link for the webmap is below. 
 
-## <a href="https://samod008.github.io/LA558_Samuel_Odoom/ex2b.png" target ="_blank">Description of Trial Exercise</a> 
+## <a href="https://samod008.github.io/LA558_Samuel_Odoom/ex2b.png" target ="_blank">Trial Exercise</a> 
 The trial exercise involved exporting a map for QGIS and adding it to a markdown file. The link for the map is below. 
 
 ## [Assignment2](Assignment2/assignment_2.md)
